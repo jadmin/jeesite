@@ -5,7 +5,7 @@ rem  *
 rem  * Author: ThinkGem@163.com
 rem  */
 echo.
-echo [��Ϣ] �������·����
+echo Clean
 echo.
 pause
 echo.
